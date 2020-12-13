@@ -11,7 +11,7 @@
 		</description>
 		<setters>
 			<set name="abbreviation">FEON</set>
-			<set name="author" abbreviation="USER"</set>
+			<set name="author" abbreviation="AUGR" url="http://dnd.wizards.com">Augur</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>
 		</setters>
