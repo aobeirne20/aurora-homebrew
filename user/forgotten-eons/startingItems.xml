@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="startingItems.xml" url="https://github.com/aobeirne20/aurora-homebrew/main/user/forgotten-eons/startingItems.xml" />
+			<file name="startingItems.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user/forgotten-eons/startingItems.xml" />
 		</update>
 	</info>	
 	<element name="Shitbringer" type="Magic Item" source="Forgotten Eons" id="ID_USER_FEON_MAGIC_ITEM_SHITBRINGER">
