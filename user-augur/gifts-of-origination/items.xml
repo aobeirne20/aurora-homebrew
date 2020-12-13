@@ -5,18 +5,32 @@
 			<file name="items.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user/gifts-of-origination/items.xml" />
 		</update>
 	</info>
-	<element name="Shitbringer" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_SHITBRINGER">
+	<element name="Pearls of the Chronomancer" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_PEARLS_OF_THE_CHRONOMANCER">		
 		<description>
-			<p>This +1 mace was made for a cleric of Lathander, the god of dawn. The head of the mace is shaped like a sunburst and made of solid brass. Named Lightbringer, this weapon glows as bright as a torch when its wielder commands. While glowing, the mace deals an extra 1d6 radiant damage to undead creatures.</p>
+			<p>Suspended chronomatic energy, captured in pearl-like spheres that offer glimpses of histories past and still to be.</p>
+			<p class="indent"><strong><em>Temporal Retreat.</em></strong> Each pearl can be crushed once, as a bonus action, to instantly jump the local area (1000 ft. sphere) back 5 minutes in time. This undoes all damage, conditions, and death, and resets all interactions. It removes any items gained, and restores any items lost. </p>
+			<p>The gift itself is comprised of three pearls, which are consumed after use. The recreation of the previous moment is to be done as accurately as can be remembered, with the DM having final judgmenet.
 		</description>
 		<setters>
-			<set name="keywords">mace</set>
-			<set name="category">Magic Weapons</set>
+			<set name="category">Wondrous Items</set>
 			<set name="cost" currency="gp">0</set>
-			<set name="type" addition="mace">Weapon</set>
-			<set name="rarity">Uncommon</set>
-			<set name="weapon">Mace</set>
-			<set name="enhancement">1</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Origination Gift</set>
+		</setters>
+	</element>
+	<element name="Pearls of the Chronomancer" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_GIFTS_OF_ORIGINATION">		
+		<description>
+			<p>Suspended chronomatic energy, captured in pearl-like spheres that offer glimpses of histories past and still to be.</p>
+			<p class="indent"><strong><em>Temporal Retreat.</em></strong> Each pearl can be crushed once, as a bonus action, to instantly jump the local area (1000 ft. sphere) back 5 minutes in time. This undoes all damage, conditions, and death, and resets all interactions. It removes any items gained, and restores any items lost. </p>
+			<p>The gift itself is comprised of three pearls, which are consumed after use. The recreation of the previous moment is to be done as accurately as can be remembered, with the DM having final judgmenet.
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="0">3 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Origination Gift</set>
 		</setters>
 	</element>
 </elements>
