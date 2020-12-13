@@ -21,31 +21,4 @@
             <set name="author" url="https://www.reddit.com/user/MrBakudan/">u/MrBakudan</set>
         </setters>
     </element>    
-
-    <element name="Trial Race" type="Race" source="Forgotten Eons" id="ID_author_source_RACE_name">
-        <description>
-            <p></p>
-            <h4>HEADING</h4>
-            <p></p>
-            <p class="indent"></p>
-            <h4>HEADING</h4>
-            <p></p>
-            <p class="indent"></p>
-            <h4>name Traits</h4>
-            <p></p>
-            <p class="indent"><strong><em>Ability Score Increase.</em></strong> _______</p>
-            <p class="indent"><strong><em>Age.</em></strong> _______</p>
-            <p class="indent"><strong><em>Alignment.</em></strong> _______</p>
-            <p class="indent"><strong><em>Size.</em></strong> _______</p>
-            <p class="indent"><strong><em>Speed.</em></strong> _______</p>
-            <p class="indent"><strong><em>RACIAL_TRAIT.</em></strong> _______</p>
-            <p class="indent"><strong><em>RACIAL_TRAIT.</em></strong> _______</p>
-            <p class="indent"><strong><em>Languages.</em></strong> _______</p>
-        </description>
-        <sheet display="false" />
-        <rules>
-            <grant type="Racial Trait" id="ID____" />
-            <grant type="Racial Trait" id="ID____" />
-        </rules>
-    </element>
 </elements>
