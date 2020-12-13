@@ -12,8 +12,12 @@
 		<setters>
 			<set name="abbreviation">FEON</set>
 			<set name="author" abbreviation="AUGR" url="http://dnd.wizards.com">Augur</set>
-			<set name="official">true</set>
-			<set name="playtest">true</set>
+			<set name="official">false</set>
+            		<set name="supplement">false</set>
+            		<set name="playtest">false</set>
+            		<set name="third-party">false</set>
+            		<set name="homebrew">true</set>
+            		<set name="league">false</set>
 			<set name="url">https://github.com/aobeirne20/aurora-homebrew</set>
 		</setters>
 	</element>
