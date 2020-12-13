@@ -9,7 +9,7 @@
 		<description>
 			<p>Suspended chronomatic energy, captured in pearl-like spheres that offer glimpses of histories past and still to be.</p>
 			<p class="indent"><strong><em>Temporal Retreat.</em></strong> Each pearl can be crushed once, as a bonus action, to instantly jump the local area (1000 ft. sphere) back 5 minutes in time. This undoes all damage, conditions, and death, and resets all interactions. It removes any items gained, and restores any items lost. </p>
-			<p>The gift itself is comprised of three pearls, which are consumed after use. The recreation of the previous moment is to be done as accurately as can be remembered, with the DM having final judgmenet.
+			<p>The gift itself is comprised of three pearls, which are consumed after use. The recreation of the previous moment is to be done as accurately as can be remembered, with the DM having final judgmenet.</p>
 		</description>
 		<setters>
 			<set name="category">Wondrous Items</set>
