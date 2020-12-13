@@ -2,10 +2,10 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="items.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user/gifts-of-origination/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user-augur/gifts-of-origination/items.xml" />
 		</update>
 	</info>
-	<element name="Pearls of the Chronomancer" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_PEARLS_OF_THE_CHRONOMANCER">		
+	<element name="Pearls of the Chronomancer" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_PEARLS_OF_THE_CHRONOMANCER">
 		<description>
 			<p>Suspended chronomatic energy, captured in pearl-like spheres that offer glimpses of histories past and still to be.</p>
 			<p class="indent"><strong><em>Temporal Retreat.</em></strong> Each pearl can be crushed once, as a bonus action, to instantly jump the local area (1000 ft. sphere) back 5 minutes in time. This undoes all damage, conditions, and death, and resets all interactions. It removes any items gained, and restores any items lost. </p>
@@ -19,7 +19,7 @@
 			<set name="rarity">Origination Gift</set>
 		</setters>
 	</element>
-	<element name="Pearls of the Chronomancer" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_GIFTS_OF_ORIGINATION">		
+	<element name="Pearls of the Chronomancer" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_GIFTS_OF_ORIGINATION">
 		<description>
 			<p>Suspended chronomatic energy, captured in pearl-like spheres that offer glimpses of histories past and still to be.</p>
 			<p class="indent"><strong><em>Temporal Retreat.</em></strong> Each pearl can be crushed once, as a bonus action, to instantly jump the local area (1000 ft. sphere) back 5 minutes in time. This undoes all damage, conditions, and death, and resets all interactions. It removes any items gained, and restores any items lost. </p>
