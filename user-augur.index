@@ -4,10 +4,10 @@
 		<name>Supplements</name>
 		<description>User supplements to further expand your core gaming elements.</description>
 		<update version="0.0.1">
-			<file name="user-augur.index" url="https://github.com/aobeirne20/aurora-homebrew/user-augur.index" />
+			<file name="user-augur.index" url="https://github.com/aobeirne20/aurora-homebrew/main/user-augur.index" />
 		</update>
 	</info>
 	<files>
-		<file name="forgotten-eons.index" url="https://github.com/aobeirne20/aurora-homebrew/user/forgotten-eons.index" />
+		<file name="forgotten-eons.index" url="https://github.com/aobeirne20/aurora-homebrew/main/user/forgotten-eons.index" />
 	</files>
 </index>
