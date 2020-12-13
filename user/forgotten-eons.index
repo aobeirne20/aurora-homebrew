@@ -7,5 +7,7 @@
 		</update>
 	</info>
 	<files>
+		<file name="source.xml" url="https://github.com/aobeirne20/aurora-homebrew/main/user/forgotten-eons/source.xml" />
+		<file name="startingItems.xml" url="https://github.com/aobeirne20/aurora-homebrew/main/user/forgotten-eons/startingItems.xml" />
 	</files>
 </index>
