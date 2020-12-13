@@ -3,7 +3,7 @@
 	<info>
 		<name>Forgotten Eons</name>
 		<update version="0.0.1">
-			<file name="forgotten-eons.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/lost-mines-phandelver.index" />
+			<file name="forgotten-eons.index" url="https://github.com/aobeirne20/aurora-homebrew/main/user/forgotten-eons.index" />
 		</update>
 	</info>
 	<files>
