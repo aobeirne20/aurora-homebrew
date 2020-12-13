@@ -3,13 +3,12 @@
 	<info>
 		<name>Supplements</name>
 		<description>User supplements to further expand your core gaming elements.</description>
-		<author url="http://dnd.wizards.com">Augur</author>
 		<update version="0.0.1">
-			<file name="user.index" url="" />
+			<file name="user.index" url="https://github.com/aobeirne20/aurora-homebrew/edit/main/user.index" />
 		</update>
 	</info>
 	<files>
-		<file name="sources.xml" url="" />
-		<file name="forgotten-eons.index" url="" />
+		<file name="sources.xml" url="https://github.com/aobeirne20/aurora-homebrew/blob/main/user/source.xml" />
+		<file name="forgotten-eons.index" url="https://github.com/aobeirne20/aurora-homebrew/blob/main/user/forgotten-eons.index" />
 	</files>
 </index>
