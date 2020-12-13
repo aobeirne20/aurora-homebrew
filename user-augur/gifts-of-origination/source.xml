@@ -2,15 +2,15 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user/forgotten-eons/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user/gifts-of-origination/source.xml" />
 		</update>
 	</info>
-	<element name="Forgotten Eons" type="Source" source="Core" id="ID_USER_FORGOTTEN_EONS">
+	<element name="Gifts of Origination" type="Source" source="Core" id="ID_AUGR_GORG_SOURCE_GIFTS_OF_ORIGINATION">
 		<description>
 			<![CDATA[<p>In the river of time, things get forgotten. But now, its all back!</p>]]>
 		</description>
 		<setters>
-			<set name="abbreviation">FEON</set>
+			<set name="abbreviation">GORG</set>
 			<set name="author" abbreviation="AUGR" url="http://dnd.wizards.com">Augur</set>
 			<set name="official">false</set>
             		<set name="supplement">false</set>

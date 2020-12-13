@@ -2,10 +2,10 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="startingItems.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user/forgotten-eons/startingItems.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user/gifts-of-origination/items.xml" />
 		</update>
-	</info>	
-	<element name="Shitbringer" type="Magic Item" source="Forgotten Eons" id="ID_USER_FEON_MAGIC_ITEM_SHITBRINGER">
+	</info>
+	<element name="Shitbringer" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_SHITBRINGER">
 		<description>
 			<p>This +1 mace was made for a cleric of Lathander, the god of dawn. The head of the mace is shaped like a sunburst and made of solid brass. Named Lightbringer, this weapon glows as bright as a torch when its wielder commands. While glowing, the mace deals an extra 1d6 radiant damage to undead creatures.</p>
 		</description>
