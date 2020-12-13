@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://github.com/aobeirne20/aurora-homebrew/main/user/forgotten-eons/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user/forgotten-eons/source.xml" />
 		</update>
 	</info>
 	<element name="Forgotten Eons" type="Source" source="Core" id="ID_USER_FORGOTTEN_EONS">
