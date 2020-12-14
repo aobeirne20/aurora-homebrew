@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="items.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user-augur/gifts-of-origination/items.xml" />
 		</update>
 	</info>
 	<element name="Chronomancer's Pearls" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_CHRONOMANCERS_PEARLS">
 		<description>
-			<p>Suspended chronomatic energy, captured in pearl-like spheres that offer glimpses of histories past and still to be.</p>
-			<p class="indent"><strong><em>Temporal Retreat.</em></strong> Each pearl can be crushed once, as a bonus action, to instantly jump the local area (1000 ft. sphere) back 5 minutes in time. This undoes all damage, conditions, and death, and resets all interactions. It removes any items gained, and restores any items lost. </p>
-			<p>The gift itself is comprised of three pearls, which are consumed after use. The recreation of the previous moment is to be done as accurately as can be remembered, with the DM having final judgment.</p>
+			<p>Suspended chronomatic energy, captured in three pearl-like spheres that, when looked at directly, offer glimpses of histories past and still to be.</p>
+			<p class="indent"><strong><em>Temporal Retreat (Bonus Action—3/Consumable).</em></strong> Each pearl can be crushed once, to instantly jump the local area (1000 ft. sphere) back 5 minutes in time. This undoes all damage, conditions, and death, and resets all interactions. It removes any items gained, and restores any items lost. The recreation of the previous moment is to be done as accurately as can be remembered, with the DM having final judgment.</p>
+			<p class="indent"><strong><em>Soulbound.</em></strong> The item is bound to the soul of the holder, and cannot be damaged, sold, stolen, or lost. Upon death of the holder, the soulbind is broken, and the next being to hold the item becomes soulbound.</p>
 		</description>
 		<setters>
 			<set name="category">Wondrous Items</set>
@@ -22,7 +22,8 @@
 	<element name="Xyston of Annihilation" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_XYSTON_OF_ANNIHILATION">
 		<description>
 			<p>A long, lightweight spear-like weapon made of a material unknown to this plane. Resonates with the latent energies trapped inside.</p>
-			<p class="indent"><strong><em>Entity Annihilation.</em></strong> As an action, the xyston can be pointed at a target. By unleashing the contained energy, the first being in the path of the weapon is totally annihilated by the beam, eradicating it and any items or gear it was using. This damage is unmitigatable and will never fails to kill the target. In the process, the energy released also results in the destruction of the xyston.</p>
+			<p class="indent"><strong><em>Entity Annihilation (Action—1/Consumable).</em></strong> The xyston can be pointed at a target, and by unleashing the contained energy, the first being in the path of the weapon is totally annihilated by the beam, eradicating it and any items or gear it was using. This damage is unmitigatable and will never fails to kill the target. In the process, the energy released also results in the destruction of the xyston.</p>
+			<p class="indent"><strong><em>Soulbound.</em></strong> The item is bound to the soul of the holder, and cannot be damaged, sold, stolen, or lost. Upon death of the holder, the soulbind is broken, and the next being to hold the item becomes soulbound.</p>
 
 		</description>
 		<setters>
@@ -33,18 +34,63 @@
 			<set name="rarity">Origination Gift</set>
 		</setters>
 	</element>
+	<element name="Translocation Tesseract" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_TRANSLOCATION_TESSERACT">
+		<description>
+			<p>An indescribable shape with a geometry impossible on the mortal plane, it appears to shift and reshape itself in a continual attempt to find a more realistic form.</p>
+			<p class="indent"><strong><em>Manifold Warp (Action—1/Consumable)</em></strong> By focusing on the geometric irreality of the item, the holder can teleport themselves and an unlimited number of willing, nearby (100 ft. cube) entities to any known, safe point. After usage, the tesseract disappears from exsistence.</p>
+			<p class="indent"><strong><em>Soulbound.</em></strong> The item is bound to the soul of the holder, and cannot be damaged, sold, stolen, or lost. Upon death of the holder, the soulbind is broken, and the next being to hold the item becomes soulbound.</p>
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="3">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Origination Gift</set>
+		</setters>
+	</element>
+	<element name="Micronized Titanium Formula no.5" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_MICRONIZED_TITANIUM_FORMULA_NO5">
+		<description>
+			<p>A simple glass phial, with a viscous metallic liquid inside. Known by the dwarves as mithril, or truemetal, its true name has been long lost to the eras.</p>
+			<p class="indent"><strong><em>Titanium-Bio Meld (Bonus Action—1/Consumable)</em></strong> Drinking the full contents of the phial renders the user totally immune to all conditions and damage, for 4 minutes. It will not cure exisiting conditions or diseases, but will prevent any damage or additional conditions developing in that period. It cannot be used to revive unconscious or dead entities.</p>
+			<p class="indent"><strong><em>Soulbound.</em></strong> The item is bound to the soul of the holder, and cannot be damaged, sold, stolen, or lost. Upon death of the holder, the soulbind is broken, and the next being to hold the item becomes soulbound.</p>
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="3">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Origination Gift</set>
+		</setters>
+	</element>
+	<element name="All-Knowing Puzzle Box" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_ALL_KNOWING_PUZZLE_BOX">
+		<description>
+			<p>A worn, wooden puzzle box. Nothing is known about the origins of this item, other than its seemingly random tendecy to appear (and disappear) at will.</p>
+			<p class="indent"><strong><em>Unlock the Box (Action—1/Consumable)</em></strong> By thinking of a question, and then solving the simple puzzle and unlocking the box, the user can recieve the exact answer to any question in the universe. If the question does not have an exact answer (such as a disputable matter of opinion), the box cannot be unlocked and a new question can be asked.</p>
+			<p class="indent"><strong><em>Soulbound.</em></strong> The item is bound to the soul of the holder, and cannot be damaged, sold, stolen, or lost. Upon death of the holder, the soulbind is broken, and the next being to hold the item becomes soulbound.</p>
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="3">0.5 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Origination Gift</set>
+		</setters>
+	</element>
+	<element name="Flawless Onyx Thrallstone" type="Magic Item" source="Gifts of Origination" id="ID_AUGR_GORG_MAGIC_ITEM_FLAWLESS_ONYX_THRALLSTONE">
+		<description>
+			<p>An opaque, black octahedron that's cold to the touch.</p>
+			<p class="indent"><strong><em>Complete Enthrallment (Bonus Action—1/Consumable)</em></strong> Point the thrallstone in the direction of a sentient entity, taking total control of the being, for 5 minutes, willing or not. The user maintains normal control over themselves during the process, which does not require concentration. No commands have to be given, rather, the user can make all decisions for the being on their turn or otherwise when they are expected to act. At the end of the duration, the enthralled entity is freed, but has no memory of the enthrallment.</p>
+			<p class="indent"><strong><em>Soulbound.</em></strong> The item is bound to the soul of the holder, and cannot be damaged, sold, stolen, or lost. Upon death of the holder, the soulbind is broken, and the next being to hold the item becomes soulbound.</p>
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="3">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Origination Gift</set>
+		</setters>
+	</element>
 </elements>
 
-Gifts given:
-Roll randomly at beginning of the game
-1-3 Players: 1 Gift
-4+ Players: 2 Gifts
-
-Other gifts:
-Tesseract of Translocation (movement power)
-Mind Spike (temporary perfect mind control)
-Mirror (become visible entity for ~10 minutes)
-Experimental Titanium Formula no.4 (invincibility)
-Puzzle box (solve puzzle, recieved answer to any question)
 
 
