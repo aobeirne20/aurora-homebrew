@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Gifts of Origination</name>
+		<update version="0.0.1">
+			<file name="gifts-of-origination.index" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user-augur/gifts-of-origination.index" />
+		</update>
+	</info>
+	<files>
+		<file name="source.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user-augur/gifts-of-origination/source.xml" />
+		<file name="items.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user-augur/gifts-of-origination/items.xml" />
+	</files>
+</index>

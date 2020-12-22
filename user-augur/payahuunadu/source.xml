@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.0.1">
+			<file name="source.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user-augur/gifts-of-origination/source.xml" />
+		</update>
+	</info>
+	<element name="Gifts of Origination" type="Source" source="Core" id="ID_AUGR_GORG_SOURCE_GIFTS_OF_ORIGINATION">
+		<description>
+			<![CDATA[<p>In the river of time, things get forgotten. But now, its all back!</p>]]>
+		</description>
+		<setters>
+			<set name="abbreviation">GORG</set>
+			<set name="author" abbreviation="AUGR" url="http://dnd.wizards.com">Augur</set>
+			<set name="official">false</set>
+            		<set name="supplement">false</set>
+            		<set name="playtest">false</set>
+            		<set name="third-party">false</set>
+            		<set name="homebrew">true</set>
+            		<set name="league">false</set>
+			<set name="url">https://github.com/aobeirne20/aurora-homebrew</set>
+		</setters>
+	</element>
+</elements>
