@@ -5,12 +5,12 @@
 			<file name="source.xml" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user-augur/gifts-of-origination/source.xml" />
 		</update>
 	</info>
-	<element name="Gifts of Origination" type="Source" source="Core" id="ID_AUGR_GORG_SOURCE_GIFTS_OF_ORIGINATION">
+	<element name="Payahǖǖnadǖ" type="Source" source="Core" id="ID_AUGR_PYHU_SOURCE_PAYAHUUNADU">
 		<description>
-			<![CDATA[<p>In the river of time, things get forgotten. But now, its all back!</p>]]>
+			<![CDATA[<p>Change this later!</p>]]>
 		</description>
 		<setters>
-			<set name="abbreviation">GORG</set>
+			<set name="abbreviation">PYHU</set>
 			<set name="author" abbreviation="AUGR" url="http://dnd.wizards.com">Augur</set>
 			<set name="official">false</set>
             		<set name="supplement">false</set>
