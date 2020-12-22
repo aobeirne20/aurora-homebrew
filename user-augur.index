@@ -3,7 +3,7 @@
 	<info>
 		<name>Supplements</name>
 		<description>User supplements to further expand your core gaming elements.</description>
-		<update version="0.0.1">
+		<update version="0.1.1">
 			<file name="user-augur.index" url="https://raw.githubusercontent.com/aobeirne20/aurora-homebrew/main/user-augur.index" />
 		</update>
 	</info>
